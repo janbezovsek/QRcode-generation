@@ -31,3 +31,10 @@ Start the server (localhost:3000)
 
 We have a simple page with input text field, where we type what ever we would like and then generate QR code for it.
 
+
+
+
+
+![QR-code](https://github.com/user-attachments/assets/16057b9b-9c20-43d7-bc4a-cbda0bc10c1d)
+
+
